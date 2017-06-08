@@ -5518,12 +5518,12 @@ section.upcoming-events .upcoming-events__content__slider .event-slide .event-sl
     display: inline-block
 }
 
-.beverly-hills-logo img {
+/*.beverly-hills-logo img {
     display: table-cell;
     vertical-align: middle;
     width: 6.5rem;
     margin: 0 auto
-}
+}*/
 
 footer {
     position: relative
@@ -9949,3 +9949,8 @@ button {
 }
 
 /*end lisa timeline*/
+
+.image-circle {
+  /*border-radius: 50%;*/
+  max-height: 200%;
+}
